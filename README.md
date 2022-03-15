@@ -1,6 +1,6 @@
 Solving a test task to find a formula for employee income  
   
-**Dataset description:** You are presented with data on the income of employees of the hot rolling department for the year, including data describing the specifics of jobs  
+**Dataset description:** You are presented with data on the income of employees of the hot rolling department for the year, including data describing the specifics of jobs.   
 Income consists of salary, bonuses, additional payments and individual allowances. Data on their sizes is not given, since it is them that you have to restore  
 **Task:** Identify the formula for income in general and its components  
 Check that this formula explains income to the nearest ruble  
